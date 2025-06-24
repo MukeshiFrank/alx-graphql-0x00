@@ -1,3 +1,12 @@
+# alx-rick-and-morty-app
+
+This project uses Next.js, TypeScript, Apollo Client, and Tailwind CSS to interact with the Rick and Morty GraphQL API.
+
+## Setup
+
+1. Install dependencies:
+```bash
+npm install
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
