@@ -1,0 +1,9 @@
+# characters-page-4.graphql
+query {
+  characters(page: 4) {
+    id
+    name
+    status
+    image
+  }
+}
